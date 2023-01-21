@@ -12,3 +12,6 @@
 * [Лабораторная работа №6]({{ site.baseurl }}/interfaces-of-information-systems/labs/lab-6.html)
 * [Лабораторная работа №7]({{ site.baseurl }}/interfaces-of-information-systems/labs/lab-7.html)
 * [Лабораторная работа №8]({{ site.baseurl }}/interfaces-of-information-systems/labs/lab-8.html)
+
+### Дополнительные материалы
+$ count_{tickets} = \frac{2 + count_{lecture\;visits} + count_{labs \;visits} + count_{labs} - count_{4}}{2} $

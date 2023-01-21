@@ -14,3 +14,6 @@
 * [Лабораторная работа №8]({{ site.baseurl }}/modeling-of-systems/labs/lab-8.html)
 * [Лабораторная работа №9]({{ site.baseurl }}/modeling-of-systems/labs/lab-9.html)
 * [Лабораторная работа №10]({{ site.baseurl }}/modeling-of-systems/labs/lab-10.html)
+
+### Дополнительные материалы
+$ count_{tickets} = \frac{2 + count_{lecture\;visits} + count_{labs \;visits} + count_{labs} - count_{4}}{2} $
