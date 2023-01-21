@@ -6,3 +6,7 @@
 
 * [Лабораторная работа №1]({{ site.baseurl }}/object-oriented-programming/labs/lab-1.html)
 * [Лабораторная работа №2]({{ site.baseurl }}/object-oriented-programming/labs/lab-2.html)
+* [Лабораторная работа №3]({{ site.baseurl }}/object-oriented-programming/labs/lab-3.html)
+* [Лабораторная работа №4]({{ site.baseurl }}/object-oriented-programming/labs/lab-4.html)
+* [Лабораторная работа №5]({{ site.baseurl }}/object-oriented-programming/labs/lab-5.html)
+* [Лабораторная работа №6]({{ site.baseurl }}/object-oriented-programming/labs/lab-6.html)
