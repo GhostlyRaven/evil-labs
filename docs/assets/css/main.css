@@ -1,3 +1,7 @@
 .project-tagline-override-opacity {
     opacity: 1 !important;
 }
+
+mjx-container{
+    font-size: {{ font-size-formula }} !important;
+}
