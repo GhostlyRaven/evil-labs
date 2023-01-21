@@ -16,3 +16,7 @@
 * [Источник #10](https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages)
 * [Источник #11](https://stackoverflow.com/questions/18155203/jekyll-accessing-page-variables-from-css)
 * [Источник #12](https://stackoverflow.com/questions/42524517/using-liquid-tempting-in-css-on-jekyll-to-adjust-background-color-of-divs-on-a-p/42528645#42528645)
+
+Дополнительные материалы:
+</br>
+$ count_{tickets} = \frac{2 + count_{lecture\;visits} + count_{labs \;visits} + count_{labs} - count_{bonus}}{2} $
