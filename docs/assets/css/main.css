@@ -1,10 +1,14 @@
 ---
 ---
 
-.project-tagline-override-opacity {
-    opacity: 1 !important;
+:root {
+    --formula-font-size: {{ site.formula-font-size }}
 }
 
-mjx-container{
-    font-size: {{ site.font-size-formula }}% !important;
+mjx-container {
+    font-size: var(--formula-font-size, 121%) !important;
+}
+
+.project-tagline-override-opacity {
+    opacity: 1 !important;
 }

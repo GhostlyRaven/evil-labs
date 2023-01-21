@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: EVIL LABS
 description: Самые легкие лабораторные работы в мире 😂
-font-size-formula: 250
+formula-font-size: 250%
