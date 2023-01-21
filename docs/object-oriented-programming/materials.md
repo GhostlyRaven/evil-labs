@@ -12,4 +12,4 @@
 * [Лабораторная работа №6]({{ site.baseurl }}/object-oriented-programming/labs/lab-6.html)
 
 ### Дополнительные материалы
-$ count_{tickets} = \frac{2 + count_{lecture\;visits} + count_{labs \;visits} + count_{labs} - count_{bonus}}{2} $
+$count_{tickets} = \frac{2 + count_{lecture\;visits} + count_{labs \;visits} + count_{labs} - count_{bonus}}{2}$
