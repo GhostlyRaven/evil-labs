@@ -3,9 +3,9 @@ title: EVIL LABS
 description: Самые легкие лабораторные работы в мире 😂
 
 user-settings:
-  formula-font-size: 2rem
-  p-text-align: break-word
-  p-word-break: justify
+  p-text-align: justify
+  p-word-break: break-word
+  formula-font-size: 2rem  
 
   pages:
     disciplines:
@@ -13,6 +13,7 @@ user-settings:
       object-oriented-programming: object-oriented-programming/materials.html
       software-system-architectures: software-system-architectures/materials.html
       interfaces-of-information-systems: interfaces-of-information-systems/materials.html
+      
       labs:
         modeling-of-systems: modeling-of-systems/labs
         object-oriented-programming: object-oriented-programming/labs
