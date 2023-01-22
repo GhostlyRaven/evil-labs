@@ -1,6 +1,6 @@
 [⟵ Главная]({{ site.baseurl }})
 
-# ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ
+## ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ
 
 ### Лабораторные работы
 
@@ -10,5 +10,15 @@
 * [Лабораторная работа №4]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.labs.object-oriented-programming }}/lab-4.html)
 * [Лабораторная работа №5]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.labs.object-oriented-programming }}/lab-5.html)
 
-### Дополнительные материалы
-$count_{tickets} = \frac{2 + count_{lecture\;visits} + count_{labs \;visits} + count_{labs} - count_{bonus}}{2}$
+### Правила допуска на экзамен или зачет
+$tickets = \frac{2 + count_{1} + count_{2} + count_{3} - count_{4}}{2}$
+
+$tickets$ - количество билетов требуемых к сдаче на экзамене или зачете;
+
+$count_{1}$ - количество пропущенных лекций;
+
+$count_{2}$ - количество пропущенных практик;
+
+$count_{3}$ - количество не сданных лабораторных работ;
+
+$count_{4}$ - количество бонусных баллов за дополнительные задания.
