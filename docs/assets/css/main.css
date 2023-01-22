@@ -13,6 +13,7 @@ mjx-container {
     opacity: 1 !important;
 }
 
-.paragraph-style {
-    
+p {
+    text-align: justify;
+    word-break: break-word;
 }
