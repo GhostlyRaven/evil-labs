@@ -1,0 +1,1 @@
+[⟵ Архитектуры программных систем]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.software-system-architectures }})

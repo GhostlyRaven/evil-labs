@@ -10,6 +10,12 @@
 * [Лабораторная работа №4]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.labs.object-oriented-programming }}/lab-4.html)
 * [Лабораторная работа №5]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.labs.object-oriented-programming }}/lab-5.html)
 
+### IDE и SDK
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio 2022](https://visualstudio.microsoft.com/ru/)
+* [Rider](https://www.jetbrains.com/ru-ru/rider/)
+* [NET 7.0](https://dotnet.microsoft.com/en-us/download)
+
 ### Правила допуска на экзамен или зачет
 $tickets = \frac{2 + count_{1} + count_{2} + count_{3} - count_{4}}{2}$
 
@@ -22,3 +28,6 @@ $count_{2}$ - количество пропущенных практик;
 $count_{3}$ - количество не сданных лабораторных работ;
 
 $count_{4}$ - количество бонусных баллов за дополнительные задания.
+
+### Вопросы к экзамену или зачету
+[Список вопросов]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.tickets.object-oriented-programming }})

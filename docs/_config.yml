@@ -19,3 +19,9 @@ user-settings:
         object-oriented-programming: object-oriented-programming/labs
         software-system-architectures: software-system-architectures/labs
         interfaces-of-information-systems: interfaces-of-information-systems/labs
+      
+      tickets:
+        modeling-of-systems: modeling-of-systems/tickets/questions.html
+        object-oriented-programming: object-oriented-programming/tickets/questions.html
+        software-system-architectures: software-system-architectures/tickets/questions.html
+        interfaces-of-information-systems: interfaces-of-information-systems/tickets/questions.html
