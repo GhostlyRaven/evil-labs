@@ -5,11 +5,18 @@
     --formula-font-size: {{ site.user-settings.formula-font-size }};
     --p-text-align: {{ site.user-settings.p-text-align }};
     --p-word-break: {{ site.user-settings.p-word-break }};
+    --li-text-align: {{ site.user-settings.li-text-align }};
+    --li-word-break: {{ site.user-settings.li-word-break }};
 }
 
 p {
     word-break: var(--p-word-break, break-word) !important;
     text-align: var(--p-text-align, justify) !important;
+}
+
+li {
+    word-break: var(--li-word-break, break-word) !important;
+    text-align: var(--li-text-align, justify) !important;
 }
 
 mjx-container {

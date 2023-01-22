@@ -5,6 +5,8 @@ description: Самые легкие лабораторные работы в м
 user-settings:
   p-text-align: justify
   p-word-break: break-word
+  li-text-align: justify
+  li-word-break: break-word
   formula-font-size: 1.5rem  
 
   pages:
