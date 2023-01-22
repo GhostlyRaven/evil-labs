@@ -1,4 +1,4 @@
-[⟵ Архитектуры программных систем]({{ site.baseurl }}/software-system-architectures/materials.html)
+[⟵ Архитектуры программных систем]({{ site.baseurl }}/{{ site.user-settings.pages.software-system-architectures }})
 
 # ЛАБОРАТОРНАЯ РАБОТА №1
 

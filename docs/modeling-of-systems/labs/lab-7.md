@@ -1,4 +1,4 @@
-[⟵ Моделирование систем]({{ site.baseurl }}/modeling-of-systems/materials.html)
+[⟵ Моделирование систем]({{ site.baseurl }}/{{ site.user-settings.pages.modeling-of-systems }})
 
 # ЛАБОРАТОРНАЯ РАБОТА №7
 

@@ -1,4 +1,4 @@
-[⟵ Объектно-ориентированное программирование]({{ site.baseurl }}/object-oriented-programming/materials.html)
+[⟵ Объектно-ориентированное программирование]({{ site.baseurl }}/{{ site.user-settings.pages.object-oriented-programming }})
 
 # ЛАБОРАТОРНАЯ РАБОТА №4
 
