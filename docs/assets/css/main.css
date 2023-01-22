@@ -3,8 +3,8 @@
 
 :root {
     --formula-font-size: {{ site.user-settings.formula-font-size }};
-    --p-text-align: {{ site.user-settings }};
-    --p-word-break: {{ site.user-settings }};
+    --p-text-align: {{ site.user-settings.p-text-align }};
+    --p-word-break: {{ site.user-settings.p-word-break }};
 }
 
 p {

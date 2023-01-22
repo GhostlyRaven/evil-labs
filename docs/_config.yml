@@ -6,13 +6,15 @@ user-settings:
   formula-font-size: 2rem
   p-text-align: break-word
   p-word-break: justify
-  pages:
-    modeling-of-systems: modeling-of-systems/materials.html
-    object-oriented-programming: object-oriented-programming/materials.html
-    software-system-architectures: software-system-architectures/materials.html
-    interfaces-of-information-systems: interfaces-of-information-systems/materials.html
 
-    modeling-of-systems-labs: modeling-of-systems/labs
-    object-oriented-programming-labs: object-oriented-programming/labs
-    software-system-architectures-labs: software-system-architectures/labs
-    interfaces-of-information-systems-labs: interfaces-of-information-systems/labs
+  pages:
+    disciplines:
+      modeling-of-systems: modeling-of-systems/materials.html
+      object-oriented-programming: object-oriented-programming/materials.html
+      software-system-architectures: software-system-architectures/materials.html
+      interfaces-of-information-systems: interfaces-of-information-systems/materials.html
+      labs:
+        modeling-of-systems: modeling-of-systems/labs
+        object-oriented-programming: object-oriented-programming/labs
+        software-system-architectures: software-system-architectures/labs
+        interfaces-of-information-systems: interfaces-of-information-systems/labs

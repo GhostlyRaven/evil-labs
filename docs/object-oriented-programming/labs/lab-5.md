@@ -1,4 +1,4 @@
-[⟵ Объектно-ориентированное программирование]({{ site.baseurl }}/{{ site.user-settings.pages.object-oriented-programming }})
+[⟵ Объектно-ориентированное программирование]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.object-oriented-programming }})
 
 # ЛАБОРАТОРНАЯ РАБОТА №5
 
