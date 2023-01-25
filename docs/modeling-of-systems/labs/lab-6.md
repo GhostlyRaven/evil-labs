@@ -2,4 +2,4 @@
 
 # ЛАБОРАТОРНАЯ РАБОТА №6
 
-[Лабораторные работы по Simulink (6-9) + Справочник.pdf]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.files.modeling-of-systems }}/Лабораторные работы по Simulink (6-9) + Справочник.pdf)
+[Лабораторные работы по Simulink (6-9).pdf]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.files.modeling-of-systems }}/Лабораторные работы по Simulink (6-9).pdf)

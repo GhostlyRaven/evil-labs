@@ -14,6 +14,15 @@
 * [Лабораторная работа №8]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.labs.modeling-of-systems }}/lab-8.html)
 * [Лабораторная работа №9]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.labs.modeling-of-systems }}/lab-9.html)
 
+### Any logic
+
+* [Программа](https://www.anylogic.ru/downloads/personal-learning-edition-download)
+* [Справочник по программе](https://anylogic.help/ru)
+
+### Курсовая работа
+
+[Задания и требования к КП или КР.pdf]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.files.modeling-of-systems }}/Задания и требования к КП или КР.pdf)
+
 ### Правила допуска на экзамен или зачет
 $tickets = \frac{2 + count_{1} + count_{2} + count_{3} - count_{4}}{2}$
 
