@@ -27,3 +27,9 @@ user-settings:
         object-oriented-programming: object-oriented-programming/tickets/questions.html
         software-system-architectures: software-system-architectures/tickets/questions.html
         interfaces-of-information-systems: interfaces-of-information-systems/tickets/questions.html
+
+      files:
+        modeling-of-systems: modeling-of-systems/files
+        object-oriented-programming: object-oriented-programming/files
+        software-system-architectures: software-system-architectures/files
+        interfaces-of-information-systems: interfaces-of-information-systems/files
