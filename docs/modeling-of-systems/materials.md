@@ -42,3 +42,6 @@ $count_{4}$ - количество бонусных баллов за допол
 
 ### Вопросы к экзамену или зачету
 [Список вопросов]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.tickets.modeling-of-systems }})
+
+### Литература
+* [Имитационное моделирование в среде AnyLogic]({{ site.baseurl }}/{{ site.user-settings.pages.disciplines.files.modeling-of-systems }}/Имитационное моделирование в среде AnyLogic.pdf)
