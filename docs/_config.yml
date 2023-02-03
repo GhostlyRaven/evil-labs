@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: EVIL LABS
-description: Самые легкие лабораторные работы во вселенной 🌌 😂
+description: Самые легкие лабораторные работы во вселенной 🌌 😂 ($(title))
 
 user-settings:
   p-text-align: justify
